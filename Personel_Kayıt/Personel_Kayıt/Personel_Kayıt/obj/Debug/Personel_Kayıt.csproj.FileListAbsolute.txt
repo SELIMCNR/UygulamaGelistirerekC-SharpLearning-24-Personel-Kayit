@@ -1,0 +1,13 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Frm_İstatistik.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmGiris.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmGrafikler.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project31\Personel_Kayıt\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Frm_AnaForm.resources
