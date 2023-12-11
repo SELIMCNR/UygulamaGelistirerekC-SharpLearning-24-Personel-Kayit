@@ -30,6 +30,7 @@ namespace Personel_Kayıt
             {
                 chart1.Series["Sehirler"].Points.AddXY(dr1[0], dr1[1]);
             }
+            baglanti.Close();
             //Grafik 2
             baglanti.Open();
             SqlCommand komutg2 = new SqlCommand("Select PerMeslek,Avg(Permaas) from Tbl_Personel group by PerMeslek",baglanti);
