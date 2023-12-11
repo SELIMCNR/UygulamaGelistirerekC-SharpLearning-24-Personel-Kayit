@@ -35,6 +35,7 @@ namespace Personel_Kayıt
         private void Form1_Load(object sender, EventArgs e)
         {
            this.tbl_PersonelTableAdapter.Fill(this.personelVeritabanıDataSet.Tbl_Personel);
+                 label8.Visible= false;
 
         }
 
